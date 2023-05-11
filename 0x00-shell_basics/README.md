@@ -15,4 +15,5 @@ Add script that creates a symbolic link
 Add script that copy only html file 
 Add script that moves file with uppercase
 Add script that removes file with character ~
-Add script that create three directories 
+Add script that create three directories
+Add script that list contents seperated by comma 
