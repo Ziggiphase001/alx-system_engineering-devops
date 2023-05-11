@@ -12,4 +12,5 @@ Add script that returns to previous folder
 Add script that list some specified files
 Add script returns a type of a file
 Add script that creates a symbolic link
-Add script that copy only html file  
+Add script that copy only html file 
+Add script that moves file with uppercase
