@@ -10,4 +10,5 @@ Add script that the betty files moved
 Add script that removes myfirstdirectory
 Add script that returns to previous folder
 Add script that list some specified files
-Add script returns a type of a file  
+Add script returns a type of a file
+Add script that creates a symbolic link  
