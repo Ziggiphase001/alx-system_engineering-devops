@@ -8,4 +8,5 @@ Add script that create dir myfirstdirectory in dir tmp
 Add script that moves betty to a sub dir of tmp
 Add script that the betty files moved
 Add script that removes myfirstdirectory
-Add script that returns to previous folder  
+Add script that returns to previous folder
+Add script that list some specified files  
