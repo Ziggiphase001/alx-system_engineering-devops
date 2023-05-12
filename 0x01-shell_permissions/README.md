@@ -4,3 +4,4 @@ Add script that print user groups
 Add script that changes owner of file helo to betty
 Add script that create empty file hello
 Add script that gives user execution power
+Add script that let user and group execute and others read
