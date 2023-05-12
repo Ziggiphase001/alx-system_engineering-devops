@@ -6,3 +6,4 @@ Add script that create empty file hello
 Add script that gives user execution power
 Add script that let user and group execute and others read
 Add script that gives execution power to u g and o
+Add script that allow only others all access
