@@ -10,3 +10,4 @@ Add script that allow only others all access
 Add script with rwx for u r x for g and wx for o
 Add script that set mode hello to olleh
 Add script that give execte to all
+Add script that create a folder and give certain permission
