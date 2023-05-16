@@ -22,3 +22,4 @@ Script removes letters c and C from inputs
 Script that reverses its inputs
 Script that shows all users and home dir sorted by user
 Script finds all empty files and dirs in current dir and subdir
+Script list all files with .gif in current folder and subfolder
