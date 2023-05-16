@@ -18,3 +18,4 @@ Script taht displays line with pattern root and three lines after them in the fi
 Script displays all lines without pattern bin in the file
 Script that shows all line that starts with a letter
 Script replaces A to Z with z to e
+Script removes letters c and C from inputs
