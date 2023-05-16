@@ -15,3 +15,4 @@ Script takes a list as input and prints contents that appear once
 Script that displays line with pattern root in passwd
 Script that displays the no of line with pattern bin in file passwd
 Script taht displays line with pattern root and three lines after them in the file
+Script displays all lines without pattern bin in the file
