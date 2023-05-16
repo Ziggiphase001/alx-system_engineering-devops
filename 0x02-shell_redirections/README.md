@@ -17,3 +17,4 @@ Script that displays the no of line with pattern bin in file passwd
 Script taht displays line with pattern root and three lines after them in the file
 Script displays all lines without pattern bin in the file
 Script that shows all line that starts with a letter
+Script replaces A to Z with z to e
