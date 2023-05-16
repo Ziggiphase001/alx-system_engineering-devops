@@ -9,3 +9,4 @@ Script that creates a file with text Best School
 Script writes result of ls -la into a file
 Script duplicates the last line of iacta
 Script that removes all files not dir with js extension in the current folder and its subfolder
+Script that counts numbers of dir including hidden ones in the current dir
