@@ -12,3 +12,4 @@ Script that removes all files not dir with js extension in the current folder an
 Script that counts numbers of dir including hidden ones in the current dir
 Script that displays the first 10 lines of a file with specifications
 Script takes a list as input and prints contents that appear once
+Script that displays line with pattern root in passwd
