@@ -8,3 +8,4 @@ Script that creates a new local variable
 Script that creates a new global variable
 Script that add true knowledge +128
 Script that prints result of power over divide
+Script that shows result of power to love
