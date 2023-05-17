@@ -1,2 +1,3 @@
-Script that alias ls for rm*
-Script that print hello user
+Script that alias ls as rm*
+Script that prints helloUSER
+Script that adds action to PATH
