@@ -11,3 +11,4 @@ Script that prints result of power over divide
 Script that shows result of power to love
 Script changes base2 to base10
 Script that prints all combination of letter except oo
+Script prints a 2 decimal places
